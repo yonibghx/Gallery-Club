@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Бронирование столика</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .booking-box {
+      background: #1c1c1c;
+      padding: 25px;
+      border-radius: 12px;
+      width: 100%;
+      max-width: 420px;
+      box-shadow: 0 0 30px rgba(0,0,0,.6);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      margin-bottom: 5px;
+      font-size: 14px;
+    }
+
+    input, select, button {
+      width: 100%;
+      padding: 12px;
+      border-radius: 8px;
+      border: none;
+      font-size: 16px;
+    }
+
+    input, select {
+      background: #2a2a2a;
+      color: #fff;
+    }
+
+    button {
+      margin-top: 25px;
+      background: #c89b3c;
+      color: #000;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #e0b84f;
+    }
+  </style>
+</head>
+<body>
+
+<div class="booking-box">
+  <h1>Бронирование</h1>
+
+  <label>Ваше имя (необязательно)</label>
+  <input type="text" id="name" placeholder="Имя">
+
+  <label>Дата посещения</label>
+  <input type="date" id="date">
+
+  <label>Выберите стол</label>
+  <select id="table">
+    <option value="">— выберите —</option>
+
+    <!-- Обычные столы -->
+    <option value="table1">Стол №1 (2–4 места)</option>
+    <option value="table2">Стол №2 (2–4 места)</option>
+    <option value="table3">Стол №3 (4–6 мест)</option>
+    <option value="table4">Стол №4 (4–6 мест)</option>
+    <option value="table5">Стол №5 (6 мест)</option>
+    <option value="table6">Стол №6 (6 мест)</option>
+    <option value="table7">Стол №7 (6–8 мест)</option>
+    <option value="table8">Стол №8 (8 мест)</option>
+    <option value="table9">Стол №9 (8 мест)</option>
+    <option value="table10">Стол №10 (10 мест)</option>
+
+    <!-- VIP -->
+    <option value="vip1">VIP-зона №1</option>
+    <option value="vip2">VIP-зона №2</option>
+  </select>
+
+  <button onclick="goToPayment()">Перейти к оплате</button>
+</div>
+
+<script>
+  function goToPayment() {
+    const name = document.getElementById("name").value.trim();
+    const date = document.getElementById("date").value;
+    const table = document.getElementById("table").value;
+
+    if (!date) {
+      alert("Пожалуйста, выберите дату посещения");
+      return;
+    }
+
+    if (!table) {
+      alert("Пожалуйста, выберите стол");
+      return;
+    }
+
+    // 🔗 ССЫЛКИ ОПЛАТЫ
+    const normalPayLink = "https://pay.cloudtips.ru/p/705ad7a3";
+    const vipPayLink = "https://pay.cloudtips.ru/p/6ec469ad";
+
+    const isVip = table.startsWith("vip");
+    const payLink = isVip ? vipPayLink : normalPayLink;
+
+    const comment = encodeURIComponent(
+      `Бронь | Дата: ${date} | Стол: ${table} | Имя: ${name || "—"}`
+    );
+
+    window.location.href = payLink + "?comment=" + comment;
+  }
+</script>
+
+</body>
+</html>

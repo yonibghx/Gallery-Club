@@ -1,0 +1,2264 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:350011ae3a6ae2e37a66baf2d229aeb0b053509789bedf7948d0872bbea765dc&width=100%25&height=556&lang=ru_RU&scroll=false
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:72bbb3f96a0994aaaeb08556e7f24bd6135e679c9cac23d645b18987e90e626d&width=100%25&height=556&lang=ru_RU&scroll=false
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\services\constructor\1.0\js\index-1.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v20/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\s\manrope\v20\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://hotelmedved.ru/
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\index.htm
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/1-sentyabrya-v-restorane-klyukva
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\1-sentyabrya-v-restorane-klyukva.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/31/
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\31\index.htm
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/5316605583698285025-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\5316605583698285025-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/components/ajaxform/css/default.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\ajaxform\css\default.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/components/ajaxform/css/lib/jquery.jgrowl.min.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\ajaxform\css\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/components/ajaxform/js/default.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\ajaxform\js\default.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/components/minishop2/css/web/default.css?v=667ec14321
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\minishop2\css\web\default.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\minishop2\css\web\lib\jquery.jgrowl.min.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/components/minishop2/js/web/default.js?v=667ec14321
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\minishop2\js\web\default.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/components/minishop2/js/web/lib/jquery.jgrowl.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\minishop2\js\web\lib\jquery.jgrowl.min.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/components/minishop2/js/web/message_settings.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\minishop2\js\web\message_settings.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/components/ms2gallery/css/web/default.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\ms2gallery\css\web\default.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/components/ms2gallery/js/web/default.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\components\ms2gallery\js\web\default.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/css/bootstrap-5.3.0.min.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\bootstrap-5.3.0.min.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/jquery.fancybox-3.5.7.min.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\jquery.fancybox-3.5.7.min.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/swiper-bundle-8.4.6.min.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\swiper-bundle-8.4.6.min.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075152
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075154
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-1.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075155
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-2.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075156
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-3.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075157
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-4.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075158
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-5.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075159
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-6.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075251
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-7.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075301
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-8.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075302
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-9.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075303
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-10.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075304
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-11.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075305
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-12.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/css/user-styles.css?v=075306
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\css\user-styles-13.css
+Content Type: text/css
+
+Uri: https://hotelmedved.ru/assets/files/Порядок проживания.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\files\Порядок проживания.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/files/Правила посещения.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\files\Правила посещения.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/files/requisite-IP-IvanovVV.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\files\requisite-IP-IvanovVV.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/files/requisite-techno-intellect.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\files\requisite-techno-intellect.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/gallery/gallery_rules.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\gallery\gallery_rules.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/assets/img/first_bg_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\assets\img\first_bg_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1745225805_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1745225805_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1745225805_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1745225805_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1748246748_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1748246748_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1748246748_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1748246748_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1748247571_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1748247571_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1748247571_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1748247571_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1748426961_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1748426961_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1748426961_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1748426961_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1750409204_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1750409204_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1750409204_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1750409204_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1753691907_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1753691907_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1755602582_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1755602582_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1755602620_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1755602620_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1756105683_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1756105683_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1756105683_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1756105683_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1756291833_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1756291833_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1756291833_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1756291833_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1759734738_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1759734738_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/0/1759734738_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\0\1759734738_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/01-9727_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\01-9727_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1707306685_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1707306685_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1707306698_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1707306698_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1707311209_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1707311209_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1725002710_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1725002710_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1725002739_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1725002739_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1725002769_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1725002769_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1725002829_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1725002829_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1725002858_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1725002858_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/1758266129_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\1758266129_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/billiard-01-9715_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\billiard-01-9715_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/billiard-01-9726_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\billiard-01-9726_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/dali-01-9653_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\dali-01-9653_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/dali-01-9657_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\dali-01-9657_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/dali-01-9690_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\dali-01-9690_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/dsc-4278-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\dsc-4278-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/kaminka-01-9704_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\kaminka-01-9704_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/kaminka-main-01-9694_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\kaminka-main-01-9694_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/klukva-01-9734_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\klukva-01-9734_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/klukva-01-9754_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\klukva-01-9754_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/klukva-01-9755_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\klukva-01-9755_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/lobbi-01-9759_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\lobbi-01-9759_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/lobbi-01-9762_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\lobbi-01-9762_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/lobbi-01-9774_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\lobbi-01-9774_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/lyuks_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\lyuks_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/1/reception_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\1\reception_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/1680864208_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\1680864208_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/1680878550_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\1680878550_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/1680878564_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\1680878564_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/1681135808_526x526_9cb.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\1681135808_526x526_9cb.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/billiard-1_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\billiard-1_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/billiard-2_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\billiard-2_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/billiard_1_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\billiard_1_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/billiard_1_526x526_9cb.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\billiard_1_526x526_9cb.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/10/billiard_2_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\10\billiard_2_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/113/1761898363_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\113\1761898363_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/113/1761996577_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\113\1761996577_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/13/1680767814_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\13\1680767814_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/14/standart-komfort-2_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\14\standart-komfort-2_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/14/standart-komfort-3_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\14\standart-komfort-3_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/14/standart-komfort-4_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\14\standart-komfort-4_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/14/standart-komfort_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\14\standart-komfort_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/15/ekonom2_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\15\ekonom2_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/15/ekonom3_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\15\ekonom3_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/15/ekonom4_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\15\ekonom4_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/15/ekonom_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\15\ekonom_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/16/standart-1_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\16\standart-1_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/16/standart-2_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\16\standart-2_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/16/standart_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\16\standart_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/17/lyuk-5_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\17\lyuk-5_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/17/lyuk3_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\17\lyuk3_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/17/lyuk7_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\17\lyuk7_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/17/lyuk8_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\17\lyuk8_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/17/lyuks11_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\17\lyuks11_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/172/1745217585_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\172\1745217585_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/172/1745217598_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\172\1745217598_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/176/1745232324_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\176\1745232324_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/176/1745232324_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\176\1745232324_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-17_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-17_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-19_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-19_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-20_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-20_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-21_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-21_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-25_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-25_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-26_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-26_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/18/foto-31_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\18\foto-31_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/183/1753696843_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\183\1753696843_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/185/1755851052_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\185\1755851052_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/185/1755851066_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\185\1755851066_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/187/1760696040_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\187\1760696040_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/187/1761733686_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\187\1761733686_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/187/1761733698_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\187\1761733698_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/187/1761733708_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\187\1761733708_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/187/1761733717_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\187\1761733717_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/189/1757922404_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\189\1757922404_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/189/1758538365_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\189\1758538365_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/191/1759302171_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\191\1759302171_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/191/1759302672_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\191\1759302672_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/192/1760421521_1920x500_200.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\192\1760421521_1920x500_200.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/192/1760421521_496x702_7a1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\192\1760421521_496x702_7a1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1694939433_0x300_fb7.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1694939433_0x300_fb7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1694939433_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1694939433_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1694939440_0x300_fb7.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1694939440_0x300_fb7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1694939440_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1694939440_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1694939448_0x300_fb7.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1694939448_0x300_fb7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1694939448_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1694939448_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/1759472520_0x300_fb7.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\1759472520_0x300_fb7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/image-28-01-24-11-44-14_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\image-28-01-24-11-44-14_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/image-28-01-24-11-44-2_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\image-28-01-24-11-44-2_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/image-28-01-24-11-44-3_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\image-28-01-24-11-44-3_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-1422_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-1422_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-1926_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-1926_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-2730_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-2730_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-5489_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-5489_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-7155_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-7155_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-7339_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-7339_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-7759_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-7759_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/28/img-8540_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\28\img-8540_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/01-9727_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\01-9727_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/1681133575_526x526_9cb.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\1681133575_526x526_9cb.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/1682063538_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\1682063538_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/billiard-01-9715_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\billiard-01-9715_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/dali-01-9653_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\dali-01-9653_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/dali-01-9667_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\dali-01-9667_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/dali-01-9675_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\dali-01-9675_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/dali-01-9679_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\dali-01-9679_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/dali-01-9684_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\dali-01-9684_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/dali-01-9690_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\dali-01-9690_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/kaminka-01-9698_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\kaminka-01-9698_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/kaminka-main-01-9694_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\kaminka-main-01-9694_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/klukva-01-9734_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\klukva-01-9734_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/klukva-01-9754_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\klukva-01-9754_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/klukva-01-9755_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\klukva-01-9755_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/lobbi-01-9762_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\lobbi-01-9762_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/lobbi-01-9774_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\lobbi-01-9774_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/3/lyuks_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\3\lyuks_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/4/laundry_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\4\laundry_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/4/lobbi-01-9759_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\4\lobbi-01-9759_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/4/lobbi-01-9762_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\4\lobbi-01-9762_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/4/lobbi-01-9764_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\4\lobbi-01-9764_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/4/lobbi-01-9774_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\4\lobbi-01-9774_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/4/lobbi-01-9775_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\4\lobbi-01-9775_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/5/delivery_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\5\delivery_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/1682280507_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\1682280507_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/1682280518_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\1682280518_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/1744186473_612x612_f81.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\1744186473_612x612_f81.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/foto-44_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\foto-44_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/klukva-01-9734_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\klukva-01-9734_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/klukva-01-9742_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\klukva-01-9742_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/klukva-01-9744_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\klukva-01-9744_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/klukva-01-9751_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\klukva-01-9751_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/klukva-01-9754_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\klukva-01-9754_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/6/klukva-01-9755_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\6\klukva-01-9755_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/01-9727_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\01-9727_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1708258996_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1708258996_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1708259015_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1708259015_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1708259567_636x527_c4f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1708259567_636x527_c4f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1725001297_636x527_c4f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1725001297_636x527_c4f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1725001420_636x527_c4f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1725001420_636x527_c4f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1725001538_636x527_c4f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1725001538_636x527_c4f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/1725001982_636x527_c4f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\1725001982_636x527_c4f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/5337029437385988293-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\5337029437385988293-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/5337029437385988298-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\5337029437385988298-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/5337029437385988303-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\5337029437385988303-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/5337029437385988304-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\5337029437385988304-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/5364264632463775413-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\5364264632463775413-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/anton-i-anastasiya122_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\anton-i-anastasiya122_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/billiard-01-9715_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\billiard-01-9715_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/billiard-01-9726_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\billiard-01-9726_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9653_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9653_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9655_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9655_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9657_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9657_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9668_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9668_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9675_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9675_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9679_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9679_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9682_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9682_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9684_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9684_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9690_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9690_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/dali-01-9693_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\dali-01-9693_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/kaminka-01-9694_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\kaminka-01-9694_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/kaminka-01-9698_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\kaminka-01-9698_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/kaminka-01-9704_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\kaminka-01-9704_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/klukva-01-9734_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\klukva-01-9734_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/klukva-01-9751_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\klukva-01-9751_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/lobbi-01-9759_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\lobbi-01-9759_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/lobbi-01-9762_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\lobbi-01-9762_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/7/lobbi-01-9774_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\7\lobbi-01-9774_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1715627679_496x400_0c6.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1715627679_496x400_0c6.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1715627697_496x400_0c6.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1715627697_496x400_0c6.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1715627705_496x400_0c6.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1715627705_496x400_0c6.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1715627712_496x400_0c6.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1715627712_496x400_0c6.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1716308689_636x900_dba.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1716308689_636x900_dba.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1716311774_636x900_dba.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1716311774_636x900_dba.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/1725002476_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\1725002476_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/5337029437385988298-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\5337029437385988298-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/5337029437385988303-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\5337029437385988303-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/5337029437385988304-121_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\5337029437385988304-121_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/anton-i-anastasiya122_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\anton-i-anastasiya122_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/dali-01-9653_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\dali-01-9653_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/dali-01-9667_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\dali-01-9667_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/73/dali-01-9668_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\73\dali-01-9668_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1680864155_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1680864155_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1708271640_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1708271640_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1708272259_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1708272259_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1708272259_312x312_2c1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1708272259_312x312_2c1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1708272268_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1708272268_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1708272534_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1708272534_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1708272534_312x312_2c1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1708272534_312x312_2c1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1713949037_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1713949037_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002086_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002086_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002094_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002094_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002138_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002138_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002138_312x312_2c1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002138_312x312_2c1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002141_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002141_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002149_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002149_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002181_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002181_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002193_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002193_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002214_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002214_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/1725002220_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\1725002220_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/dali-01-9655_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\dali-01-9655_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/dali-01-9667_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\dali-01-9667_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/dali-01-9684_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\dali-01-9684_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/dali-01-9690_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\dali-01-9690_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/lobbi-01-9759_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\lobbi-01-9759_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/lobbi-01-9762_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\lobbi-01-9762_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/8/lobbi-01-9774_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\8\lobbi-01-9774_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739427787_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739427787_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739427796_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739427796_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739427816_1920x680_a29.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739427816_1920x680_a29.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428017_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428017_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428017_312x312_2c1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428017_312x312_2c1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428025_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428025_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428033_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428033_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428039_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428039_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428060_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428060_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428060_312x312_2c1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428060_312x312_2c1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428064_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428064_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428070_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428070_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428074_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428074_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428091_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428091_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428091_312x312_2c1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428091_312x312_2c1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428094_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428094_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/1739428099_1200x0_105.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\1739428099_1200x0_105.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4148-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4148-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4183-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4183-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4193-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4193-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4278-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4278-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4303-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4303-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4313-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4313-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4338-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4338-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4353-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4353-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4403-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4403-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4408-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4408-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/cache_image/resources/9/dsc-4413-hdr-resized_1044x1052_64f.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\cache_image\resources\9\dsc-4413-hdr-resized_1044x1052_64f.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/01-9727.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\01-9727.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/billiard-01-9715.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\billiard-01-9715.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/billiard-01-9726.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\billiard-01-9726.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/dali-01-9653.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\dali-01-9653.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/dali-01-9657.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\dali-01-9657.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/dali-01-9690.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\dali-01-9690.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/dsc-4278-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\dsc-4278-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/kaminka-01-9704.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\kaminka-01-9704.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/kaminka-main-01-9694.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\kaminka-main-01-9694.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/klukva-01-9734.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\klukva-01-9734.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/klukva-01-9754.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\klukva-01-9754.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/klukva-01-9755.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\klukva-01-9755.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/lobbi-01-9759.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\lobbi-01-9759.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/lobbi-01-9762.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\lobbi-01-9762.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/lobbi-01-9774.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\lobbi-01-9774.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/lyuks.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\lyuks.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/1/reception.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\1\reception.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/10/1680878550.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\10\1680878550.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/10/1680878564.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\10\1680878564.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/10/billiard-1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\10\billiard-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/10/billiard-2.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\10\billiard-2.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/1750148044.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\1750148044.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/1750148054.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\1750148054.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/1750148062.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\1750148062.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/1750148070.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\1750148070.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/standart-komfort-2.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\standart-komfort-2.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/standart-komfort-3.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\standart-komfort-3.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/standart-komfort-4.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\standart-komfort-4.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/14/standart-komfort.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\14\standart-komfort.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1682026871.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1682026871.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1682026885.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1682026885.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1682026894.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1682026894.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1682026911.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1682026911.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1682026924.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1682026924.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1750147207.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1750147207.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1750147555.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1750147555.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1750147787.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1750147787.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/1750147912.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\1750147912.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/ekonom.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\ekonom.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/ekonom2.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\ekonom2.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/ekonom3.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\ekonom3.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/15/ekonom4.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\15\ekonom4.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/1750147953.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\1750147953.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/1750147973.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\1750147973.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/1750147981.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\1750147981.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/1750148013.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\1750148013.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/standart-1.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\standart-1.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/standart-2.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\standart-2.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/16/standart.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\16\standart.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/1750148094.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\1750148094.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/1750148102.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\1750148102.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/1750148117.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\1750148117.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/1750148129.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\1750148129.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/lyuk-5.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\lyuk-5.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/lyuk3.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\lyuk3.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/lyuk7.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\lyuk7.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/lyuk8.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\lyuk8.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/17/lyuks11.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\17\lyuks11.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/1750148267.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\1750148267.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/1750148273.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\1750148273.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/1750148282.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\1750148282.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/1750148292.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\1750148292.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-17.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-17.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-19.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-19.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-20.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-20.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-21.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-21.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-25.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-25.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-26.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-26.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/18/foto-31.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\18\foto-31.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/image-28-01-24-11-44-14.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\image-28-01-24-11-44-14.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/image-28-01-24-11-44-2.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\image-28-01-24-11-44-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/image-28-01-24-11-44-3.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\image-28-01-24-11-44-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-1422.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-1422.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-1926.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-1926.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-2730.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-2730.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-5489.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-5489.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-7155.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-7155.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-7339.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-7339.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-7759.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-7759.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/28/img-8540.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\28\img-8540.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/01-9727.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\01-9727.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/1682063538.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\1682063538.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/billiard-01-9715.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\billiard-01-9715.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/dali-01-9653.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\dali-01-9653.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/dali-01-9667.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\dali-01-9667.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/dali-01-9675.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\dali-01-9675.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/dali-01-9679.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\dali-01-9679.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/dali-01-9684.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\dali-01-9684.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/dali-01-9690.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\dali-01-9690.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/kaminka-01-9698.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\kaminka-01-9698.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/kaminka-main-01-9694.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\kaminka-main-01-9694.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/klukva-01-9734.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\klukva-01-9734.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/klukva-01-9754.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\klukva-01-9754.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/klukva-01-9755.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\klukva-01-9755.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/lobbi-01-9762.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\lobbi-01-9762.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/lobbi-01-9774.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\lobbi-01-9774.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/3/lyuks.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\3\lyuks.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1680767649.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1680767649.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1682027796.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1682027796.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1750148484.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1750148484.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1750148535.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1750148535.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1750148592.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1750148592.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1750148732.png
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1750148732.png
+Content Type: image/png
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/1750149373.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\1750149373.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/lobbi-01-9759.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\lobbi-01-9759.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/lobbi-01-9762.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\lobbi-01-9762.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/lobbi-01-9764.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\lobbi-01-9764.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/lobbi-01-9774.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\lobbi-01-9774.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/4/lobbi-01-9775.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\4\lobbi-01-9775.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/5/delivery.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\5\delivery.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/1682280507.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\1682280507.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/1682280518.jpeg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\1682280518.jpeg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/1683206321.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\1683206321.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/1683206444.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\1683206444.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/1744186473.png
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\1744186473.png
+Content Type: image/png
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/foto-44.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\foto-44.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/klukva-01-9734.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\klukva-01-9734.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/klukva-01-9742.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\klukva-01-9742.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/klukva-01-9744.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\klukva-01-9744.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/klukva-01-9751.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\klukva-01-9751.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/klukva-01-9754.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\klukva-01-9754.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/6/klukva-01-9755.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\6\klukva-01-9755.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/01-9727.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\01-9727.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/1724998515.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\1724998515.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/5337029437385988293-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\5337029437385988293-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/5337029437385988298-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\5337029437385988298-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/5337029437385988303-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\5337029437385988303-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/5337029437385988304-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\5337029437385988304-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/5364264632463775413-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\5364264632463775413-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/anton-i-anastasiya122.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\anton-i-anastasiya122.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/billiard-01-9715.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\billiard-01-9715.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/billiard-01-9726.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\billiard-01-9726.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9653.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9653.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9655.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9655.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9657.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9657.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9668.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9668.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9675.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9675.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9679.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9679.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9682.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9682.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9684.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9684.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9690.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9690.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/dali-01-9693.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\dali-01-9693.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/kaminka-01-9694.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\kaminka-01-9694.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/kaminka-01-9698.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\kaminka-01-9698.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/kaminka-01-9704.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\kaminka-01-9704.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/klukva-01-9734.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\klukva-01-9734.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/klukva-01-9751.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\klukva-01-9751.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/lobbi-01-9759.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\lobbi-01-9759.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/lobbi-01-9762.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\lobbi-01-9762.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/7/lobbi-01-9774.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\7\lobbi-01-9774.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/5337029437385988298-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\5337029437385988298-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/5337029437385988303-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\5337029437385988303-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/5337029437385988304-121.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\5337029437385988304-121.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/anton-i-anastasiya122.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\anton-i-anastasiya122.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/dali-01-9653.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\dali-01-9653.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/dali-01-9667.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\dali-01-9667.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/73/dali-01-9668.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\73\dali-01-9668.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/dali-01-9655.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\dali-01-9655.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/dali-01-9667.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\dali-01-9667.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/dali-01-9684.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\dali-01-9684.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/dali-01-9690.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\dali-01-9690.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/lobbi-01-9759.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\lobbi-01-9759.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/lobbi-01-9762.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\lobbi-01-9762.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/8/lobbi-01-9774.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\8\lobbi-01-9774.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4148-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4148-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4183-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4183-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4193-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4193-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4278-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4278-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4303-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4303-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4313-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4313-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4338-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4338-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4353-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4353-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4403-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4403-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4408-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4408-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/images/resources/9/dsc-4413-hdr-resized.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\images\resources\9\dsc-4413-hdr-resized.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/assets/img/favicon.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\img\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/img/footer.webp
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\img\footer.webp
+Content Type: image/webp
+
+Uri: https://hotelmedved.ru/assets/img/logo.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/img/logo_footer.svg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\img\logo_footer.svg
+Content Type: image/svg+xml
+
+Uri: https://hotelmedved.ru/assets/js/bootstrap.bundle-5.3.0.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\bootstrap.bundle-5.3.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/jquery-3.6.3.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\jquery-3.6.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/jquery.fancybox-3.5.7.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\jquery.fancybox-3.5.7.min.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/jquery.maskedinput-1.4.1.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\jquery.maskedinput-1.4.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/jquerycookie.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\jquerycookie.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/swiper-bundle-8.4.6.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\swiper-bundle-8.4.6.min.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075152
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075154
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-1.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075155
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-2.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075156
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-3.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075157
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-4.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075158
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-5.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075159
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-6.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075251
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-7.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075301
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-8.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075302
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-9.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075303
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-10.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075304
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-11.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075305
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-12.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/js/user-init.js?v=075306
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\js\user-init-13.js
+Content Type: application/x-javascript
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/28/1758183591.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\28\1758183591.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/28/1758183613.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\28\1758183613.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/28/1758183623.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\28\1758183623.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/6/1744619305.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\6\1744619305.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/6/1761207331.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\6\1761207331.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/6/1761207429.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\6\1761207429.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/6/1761207577.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\6\1761207577.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/assets/pdf/resources/6/1761905689.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\assets\pdf\resources\6\1761905689.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/banketnaya-prezentacziya-compressed.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\banketnaya-prezentacziya-compressed.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/banketnoe-menu-mu.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\banketnoe-menu-mu.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/banketnye-zaly-prezentaciya.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\banketnye-zaly-prezentaciya.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/banketnyi-zaly-1.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\banketnyi-zaly-1.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/banketnyie-zalyi
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\banketnyie-zalyi.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/banketnyie-zalyi-11.07.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\banketnyie-zalyi-11.07.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/bilyard
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\bilyard.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/booking.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\booking.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/booking_table.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\booking_table.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/booking_tickets.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\booking_tickets.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/children-set.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\children-set.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/detskoe-menyu.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\detskoe-menyu.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/furshetnoe-menyu-05.05-fin.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\furshetnoe-menyu-05.05-fin.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/furshetnoe-menyu-final-final.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\furshetnoe-menyu-final-final.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/gallery-club
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gallery-club.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/gastronomicheskaya-ekskursiya
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gastronomicheskaya-ekskursiya.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/hotel-video-1.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\hotel-video-1.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/kejtering
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\kejtering.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/klukva-01-9734.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\klukva-01-9734.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/klukva-opt.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\klukva-opt.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/konczert-nigativ
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\konczert-nigativ.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/konczert-russkoj-rok-muzyiki
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\konczert-russkoj-rok-muzyiki.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/konferencz-zal
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\konferencz-zal.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/kontaktyi
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\kontaktyi.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/legendarnaya-gruppa-malchishnik
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\legendarnaya-gruppa-malchishnik.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/lv-0-20231025222535-1.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\lv-0-20231025222535-1.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/lyod-otdelno
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\lyod-otdelno.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/lyuks.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\lyuks.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/menyu-novyij-god-montazhnaya-oblast-1-4.jpg
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\menyu-novyij-god-montazhnaya-oblast-1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://hotelmedved.ru/nomera/
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\nomera\index.htm
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/novogodnee-menyu-1.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\novogodnee-menyu-1.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/novogodnie.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\novogodnie.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/novogodnij-korporativ-2026-v-grk-medvezhij-ugol
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\novogodnij-korporativ-2026-v-grk-medvezhij-ugol.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/novogodnij-rozyigryish-prizov
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\novogodnij-rozyigryish-prizov.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/novogodnyaya-noch-2026
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\novogodnyaya-noch-2026.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/o-komplekse
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\o-komplekse.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/offer-kofe-brejk.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\offer-kofe-brejk.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/offer-konferenc-zal.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\offer-konferenc-zal.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/ognennaya-vecherinka-s-oilband
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\ognennaya-vecherinka-s-oilband.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/paxa-neft
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\paxa-neft.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/perezapusk-gallery-club
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\perezapusk-gallery-club.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/politic
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\politic.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/presentation-konferenc-zal.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\presentation-konferenc-zal.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/restoran-klyukva
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\restoran-klyukva.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/shkolnyie-vyipusknyie-vechera-2026-v-grk-medvezhij-ugol
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\shkolnyie-vyipusknyie-vechera-2026-v-grk-medvezhij-ugol.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/snek-menyu-final-17.04.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\snek-menyu-final-17.04.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/stendap-konstantina-malasaeva
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\stendap-konstantina-malasaeva.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/sun-vibes-2025
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\sun-vibes-2025.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/tureczkie-bani
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\tureczkie-bani.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/vecherinka-vot-i-leto-prishlo
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\vecherinka-vot-i-leto-prishlo.html
+Content Type: text/html
+
+Uri: https://hotelmedved.ru/video2025-01-17-10-02-12.mp4
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\video2025-01-17-10-02-12.mp4
+Content Type: video/mp4
+
+Uri: https://hotelmedved.ru/vyipuknyie-2026-menyu.pdf
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\vyipuknyie-2026-menyu.pdf
+Content Type: application/pdf
+
+Uri: https://hotelmedved.ru/yakuza-and-goys
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\yakuza-and-goys.html
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/93058541
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\watch\93058541
+Content Type: image/gif
+
+Uri: https://top-fwz1.mail.ru/counter?id=3502252;js=na
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\counter
+Content Type: image/gif
+
+Uri: https://unpkg.com/gijgo@1.9.14/css/gijgo.min.css
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\css\gijgo.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/gijgo@1.9.14/fonts/gijgo-material.eot?235541
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\fonts\gijgo-material.eot
+Content Type: application/octet-stream
+
+Uri: https://unpkg.com/gijgo@1.9.14/fonts/gijgo-material.svg?235541
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\fonts\gijgo-material.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/gijgo@1.9.14/fonts/gijgo-material.ttf?235541
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\fonts\gijgo-material.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/gijgo@1.9.14/fonts/gijgo-material.woff?235541
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\fonts\gijgo-material.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/gijgo@1.9.14/js/gijgo.min.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\js\gijgo.min.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/gijgo@1.9.14/js/messages/messages.ru-ru.js
+File Name: C:\Downloaded Web Sites\hotelmedved.ru\gijgo@1.9.14\js\messages\messages.ru-ru.js
+Content Type: text/javascript
+
